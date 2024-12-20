@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">project_mini</string>
+    <string name="title">Một số thuật toán xắp xếp cơ bản</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
